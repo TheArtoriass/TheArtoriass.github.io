@@ -1,0 +1,6 @@
+site_name: My Docs
+nav : 
+  - Home: index.md
+  - test: partie_1.md
+
+#pandoc -s -o partie_2.pdf partie_2.pdf
