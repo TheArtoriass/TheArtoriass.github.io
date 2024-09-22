@@ -19,7 +19,7 @@ theme:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
       primary: teal
-      accent: green 
+      accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
@@ -28,5 +28,5 @@ theme:
       accent: white
 
 nav:
-  - Home: [docs/index.md](docs/index.md)
-  - Partie 1: [docs/partie_1.md](docs/partie_1.md)
+  - Home: index.md
+  - Partie 1: partie_1.md
