@@ -2,17 +2,7 @@ site_name: TheArtorias site
 
 theme:
   name: material
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
-  language: en
+  language: fr
   palette:
     - scheme: default
       toggle:
@@ -23,20 +13,10 @@ theme:
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        name: Switch to light mode
+      primary: black
+      accent: white
 
-  extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/TheArtoriass
-
-  copyright: |
-    &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
-
-nav : 
-  - Home: index.md
-  - test: partie_1.md
-
-#pandoc -s -o partie_2.pdf partie_2.pdf
+nav:
+  - Home: [docs/index.md](docs/index.md)
+  - Partie 1: [docs/partie_1.md](docs/partie_1.md)
