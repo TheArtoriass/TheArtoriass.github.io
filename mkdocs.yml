@@ -1,10 +1,32 @@
-site_name: Mon site web TP
-
-nav : 
-  - Home: index.md
-  - test: partie_1.md
+site_name: TheArtorias site
 
 theme:
-  name : material
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.code.copy
+  language: fr
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline 
+        name: Switch to dark mode
+      primary: teal
+      accent: green 
+    - scheme: slate 
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: black
+      accent: white
 
-#pandoc -s -o partie_2.pdf partie_2.pdf
+nav:
+  - Home: [docs/index.md](docs/index.md)
+  - Partie 1: [docs/partie_1.md](docs/partie_1.md)
