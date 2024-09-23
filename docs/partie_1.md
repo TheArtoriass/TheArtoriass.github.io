@@ -1,6 +1,6 @@
 # Friterie Molien
 
-**devant de la friterie :**
+**devant de la friterie :** !!!!
 
 ![Friterie](img/friterie.jpg)
 
