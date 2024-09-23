@@ -8,7 +8,7 @@ Bonjour,
 Je m’appelle Antoine et je suis actuellement étudiant dans la formation du BUT informatique en 3e année.
 
 
-Je vous invite à découvrir certains de mes travaux dans la section projets.
+je vous invite à découvrir certains de mes travaux dans la section projets.
 
 Parcours réalisation d’applications : conception, développement, validation.
 
