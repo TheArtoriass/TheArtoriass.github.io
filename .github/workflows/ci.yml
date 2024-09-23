@@ -1,4 +1,3 @@
-name: ci 
 on:
   push:
     branches: 
@@ -17,8 +16,4 @@ jobs:
           python-version: 3.x
 
       - run: pip install mkdocs mkdocs-material
-      - run: mkdocs gh-deploy --force
-      
-      - run: pip install mkdocs-material
-      - run: pip install pillow cairosvg
       - run: mkdocs gh-deploy --force
