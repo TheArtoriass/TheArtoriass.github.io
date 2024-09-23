@@ -28,5 +28,5 @@ theme:
       accent: white
 
 nav:
-  - Accueil: index_par_defaut.md
+  - Accueil: index.md
   - tp_markdown: tp_markdown.md
