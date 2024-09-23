@@ -4,7 +4,7 @@ Bienvenue sur mon portfolio ! Voici une présentation de mes compétences, mes p
 
 ## À propos de moi
 
-Je suis Antoine Delrue, un développeur web et les algorithmes. J'ai de l'expérience dans divers langages de programmation et frameworks, je suis actuellement à la recherche d'un stage .....
+Je suis Antoine Delrue, un développeur web. J'ai de l'expérience dans divers langages de programmation et frameworks, je suis actuellement à la recherche d'un stage .....
 
 - **Email :** ??@??.com
 - **LinkedIn :** [Mon LinkedIn](https://www.linkedin.com/in/??)

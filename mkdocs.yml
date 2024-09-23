@@ -1,4 +1,4 @@
-site_name: Mon site web TP
+site_name: Antoine Delrue 2024-2025
 
 theme:
   name: material
@@ -28,5 +28,5 @@ theme:
       accent: white
 
 nav:
-  - Home: index.md
+  - Accueil: index.md
   - tp_markdown: tp_markdown.md
