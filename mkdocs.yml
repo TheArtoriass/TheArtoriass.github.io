@@ -29,4 +29,4 @@ theme:
 
 nav:
   - Home: index.md
-  - Partie 1: partie_1.md
+  - tp_markdown: tp_markdown.md
